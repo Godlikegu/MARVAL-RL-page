@@ -1,0 +1,11 @@
+{
+  "name": "paper-project-page",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static project page for a research paper, suitable for GitHub Pages.",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "devDependencies": {}
+}
+
